@@ -5,7 +5,7 @@
 # email: wellingtongeek@gmail.com, contato@wellingtongeek.com
 # Para execultar o script basta localizar a pasta e digitar chmod +x oracle_jdk_8.sh
 
-echo "Adicionado o repositorio do android studio"
+echo "Adicionado o repositorio do oracle jdk"
 sudo add-apt-repository ppa:webupd8team/java
 echo ""
 echo "Atualizando lista de repositorios"
