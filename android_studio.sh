@@ -14,6 +14,7 @@ echo ""
 echo "Instalando android studio"
 sudo apt-get install android-studio
 
+
 # Para iniciar android studio /opt/android-studio/bin/studio.sh
 # Para remover andoid studio 
 # sudo apt-get remove android-studio
