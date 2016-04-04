@@ -14,7 +14,6 @@ echo ""
 echo "Instalando JDK 8"
 sudo apt-get install oracle-java8-installer
 
-
 # Para remover oracle jdk 8
 # sudo apt-get install ppa-purge -y
 # sudo ppa-purge ppa:webupd8team/java
