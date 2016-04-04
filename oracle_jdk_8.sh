@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Sript para intalar oracle sdk 8
+# Sript para instalar oracle sdk 8
 # Criado por Wellington P. Gonçalves (Wellington Geek)
 # email: wellingtongeek@gmail.com, contato@wellingtongeek.com
 # Para execultar o script basta localizar a pasta e digitar chmod +x oracle_jdk_8.sh
