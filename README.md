@@ -4,7 +4,7 @@ Diversos shell script para utilizar no linux.
 ![Logo bash](http://blog.techhysahil.com/wp-content/uploads/2016/01/Bash_Scripting.jpeg)
 
 #Como utilizar
-Exemplos de como utlizar os scripts
+Exemplo de como utilizar os scripts
 ```c
 //Basta localizar a pasta do arquivo e digitar o comando a baixo
 chmod +x clear.sh
