@@ -19,4 +19,4 @@ sudo apt-get install oracle-java8-installer
 # sudo apt-get install ppa-purge -y
 # sudo ppa-purge ppa:webupd8team/java
 # sudo apt-get update
-#sudo apt-get autoremove
+# sudo apt-get autoremove
