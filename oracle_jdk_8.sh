@@ -15,7 +15,8 @@ echo "Instalando JDK 8"
 sudo apt-get install oracle-java8-installer
 
 
-# Para iniciar android studio /opt/android-studio/bin/studio.sh
-# Para remover andoid studio 
-# sudo apt-get remove android-studio
-# sudo apt-get autoremove
+# Para remover oracle jdk 8
+# sudo apt-get install ppa-purge -y
+# sudo ppa-purge ppa:webupd8team/java
+# sudo apt-get update
+#sudo apt-get autoremove
